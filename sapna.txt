@@ -1,4 +1,8 @@
 gjhghgyghg
 making commit in develop branch
+<<<<<<< HEAD
 committ in master branch
 hhhhh
+=======
+second commit
+>>>>>>> develop
